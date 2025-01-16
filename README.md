@@ -1,4 +1,5 @@
 Optimizing Delivery Routes Using Divide and Conquer Algorithms
+
 The problem of optimizing delivery routes is often referred to as the Traveling Salesman Problem (TSP), where the goal is to determine the shortest possible route that visits a set of cities and returns to the origin city. This problem is NP-hard, meaning there is no known polynomial-time algorithm to solve it exactly for large instances. However, different algorithms can be used to approximate the solution efficiently.
 
 In this context, we will explore Divide and Conquer algorithms, which are useful for breaking down the problem into smaller subproblems, solving them recursively, and combining the results. We'll also compare this approach with Brute Force and discuss the choices made in terms of algorithm selection and efficiency.
