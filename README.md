@@ -12,5 +12,15 @@ This approach tries all possible permutations of cities to find the optimal rout
 Divide and Conquer (Divide and Conquer Closest Pair): 
 This approach divides the problem into smaller subproblems and recursively solves them, combining the solutions at each level of recursion. It is more efficient with a time complexity of 𝑂(𝑛log𝑛) which is suitable for moderately large datasets.
 
-Closest Pair of Points:
-This is a component of the Divide and Conquer approach, where the problem is divided into subproblems to find the closest pair of points (in our case, delivery locations). The recursive approach reduces the problem size and uses spatial properties to achieve efficiency.
+
+
+
+
+GROUP D
+Name                                                                              ID
+Oli Bakala                                                                  NSR/1929/13
+Mikiyas Shiferaw                                                            NSR/1707/13
+Naol Birhanu                                                                NSR/1839/13
+Mansur Seid                                                                 NSR/1547/13
+Oromia Mosisa                                                               NSR/T/018/15
+
