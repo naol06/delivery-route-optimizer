@@ -17,10 +17,17 @@ This approach divides the problem into smaller subproblems and recursively solve
 
 
 GROUP D
+
 Name                                                                              ID
+
+
 Oli Bakala                                                                  NSR/1929/13
+
 Mikiyas Shiferaw                                                            NSR/1707/13
+
 Naol Birhanu                                                                NSR/1839/13
+
 Mansur Seid                                                                 NSR/1547/13
+
 Oromia Mosisa                                                               NSR/T/018/15
 
